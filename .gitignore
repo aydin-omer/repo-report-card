@@ -1,0 +1,14 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+
+# Dependencies and test output
+node_modules/
+coverage/
+
+# Packed npm releases
+*.tgz
+
+# macOS
+.DS_Store
