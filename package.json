@@ -9,7 +9,13 @@
     "type": "git",
     "url": "git+https://github.com/aydin-omer/repo-report-card.git"
   },
-  "keywords": [],
+  "keywords": [
+    "github",
+    "cli",
+    "report-card",
+    "repository",
+    "zero-dependencies"
+  ],
   "author": "Omer Aydin",
   "license": "MIT",
   "type": "module",
@@ -22,5 +28,9 @@
   },
   "engines": {
     "node": ">=22"
-  }
+  },
+  "files": [
+    "bin",
+    "src"
+  ]
 }
