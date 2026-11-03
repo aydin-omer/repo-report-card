@@ -21,6 +21,6 @@
     "repo-report-card": "./bin/repo-report-card.js"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   }
 }
