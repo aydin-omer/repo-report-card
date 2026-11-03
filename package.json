@@ -1,6 +1,6 @@
 {
   "name": "repo-report-card",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI that grades GitHub repositories on description, license, topics and README, and lists what's missing",
   "scripts": {
     "test": "node --test"
