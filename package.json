@@ -1,0 +1,26 @@
+{
+  "name": "repo-report-card",
+  "version": "0.1.0",
+  "description": "CLI that grades GitHub repositories on description, license, topics and README, and lists what's missing",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aydin-omer/repo-report-card.git"
+  },
+  "keywords": [],
+  "author": "Omer Aydin",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aydin-omer/repo-report-card/issues"
+  },
+  "homepage": "https://github.com/aydin-omer/repo-report-card#readme",
+  "bin": {
+    "repo-report-card": "./bin/repo-report-card.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
